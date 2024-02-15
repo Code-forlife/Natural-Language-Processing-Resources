@@ -1,5 +1,3 @@
-Absolutely! Here's a README text you can use as a base and customize for your Natural Language Processing resource repository on GitHub.
-
 **README.md**
 
 # NLP Resources Repository
